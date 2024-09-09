@@ -1,2 +1,7 @@
 # react-playground
-A playground to learn React.
+
+A place to learn React and have some fun with it.
+
+# little projects
+
+- Mini financial system

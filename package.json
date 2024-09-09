@@ -1,0 +1,25 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Play with React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunaboeger/react-playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunaboeger/react-playground/issues"
+  },
+  "homepage": "https://github.com/brunaboeger/react-playground#readme",
+  "dependencies": {
+    "next": "^14.2.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
